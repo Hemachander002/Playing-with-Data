@@ -1,2 +1,5 @@
 # Playing-with-Data
-Here i post my silly data works 
+Lets learn by messing around with data
+*No Objectives
+*No rules
+
