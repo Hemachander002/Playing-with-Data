@@ -11,3 +11,6 @@
 
 ### Chicago_data.pynb
 ==> Explored the Chicago's crime,public schools and census data with SQLite3,JupySQL and Pandas 
+
+### LinearRegression.pynb
+==> Implemented KDE plot on a regression model that gives better insights than distplot
